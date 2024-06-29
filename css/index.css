@@ -1,3 +1,47 @@
+
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#facecard-1 {
+    background-image: url(../images/aiah.png)
+}
+
+#facecard-2 {
+    background-image: url(../images/colet.png)
+}
+
+#facecard-3 {
+    background-image: url(../images/gwen.png)
+}
+
+#facecard-4 {
+    background-image: url(../images/jhoanna.png)
+}
+
+#facecard-5 {
+    background-image: url(../images/maloi.png)
+}
+
+#facecard-6 {
+    background-image: url(../images/mikha.png)
+}
+
+#facecard-7 {
+    background-image: url(../images/sheena.png)
+}
+
+#facecard-8 {
+    background-image: url(../images/stacey.png)
+}
+
 .nav-hover:hover {
     background-color: rgba(231, 231, 117, 0.559);
 }
@@ -88,37 +132,7 @@
     filter: grayscale(0);
 }
 
-#facecard-1 {
-    background-image: url(/images/aiah.png)
-}
 
-#facecard-2 {
-    background-image: url(/images/colet.png)
-}
-
-#facecard-3 {
-    background-image: url(/images/gwen.png)
-}
-
-#facecard-4 {
-    background-image: url(/images/jhoanna.png)
-}
-
-#facecard-5 {
-    background-image: url(/images/maloi.png)
-}
-
-#facecard-6 {
-    background-image: url(/images/mikha.png)
-}
-
-#facecard-7 {
-    background-image: url(/images/sheena.png)
-}
-
-#facecard-8 {
-    background-image: url(/images/stacey.png)
-}
 
 .gallery-row {
     display: flex;
